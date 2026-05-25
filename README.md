@@ -8,7 +8,7 @@ I build practical software end to end, from healthcare infrastructure to market-
 
 *Most source is kept private; happy to walk through it or share access on request.*
 
-- **event-engine.** Event-driven research engine for mid-cap special-situations equities. Ingests SEC/EDGAR filings plus market, macro, news, and regulatory data, enriches with an LLM, and publishes a curated daily research digest to Notion. *Python · SQLite · 161 tests.*
+- **event-engine.** An AI-automated, event-driven research engine that powers my mid-cap special-situations trading strategy. It maintains a tracked stock universe and runs a scheduled daily pipeline: ingesting SEC/EDGAR filings plus market, macro, news, and regulatory data, enriching it with an LLM, and publishing a curated research digest straight into Notion, where the trade analysis lives. *Python · SQLite · GitHub Actions · 161 tests.*
 - **market-briefings.** Automated twice-daily market-intelligence emails. A multi-source data bundle (Yahoo / FRED / Finnhub / CNN) is synthesized by an LLM and delivered via SendGrid on a GitHub Actions schedule. *Python · serverless.*
 - **availability-extension.** Chrome extension (Manifest V3) that turns your Google Calendar into one-click shareable weekly availability, backed by a serverless Vercel API. *JavaScript.*
 
