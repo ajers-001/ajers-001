@@ -2,7 +2,7 @@
 
 I build practical software end to end, from healthcare infrastructure to market-intelligence tooling.
 
-🍊 **Currently building [Clementine Health](https://github.com/ajers-001/clementine-website).** An AI discharge-coordination platform for hospitals that integrates with Epic via FHIR R4, predicts discharge barriers, scores readiness, and automates prior authorization and medical-necessity documentation to reduce avoidable length-of-stay.
+🍊 **Currently building [Clementine Health](https://clementinehealth.app).** An AI discharge-coordination platform for hospitals that integrates with Epic via FHIR R4, predicts discharge barriers, scores readiness, and automates prior authorization and medical-necessity documentation to reduce avoidable length-of-stay.
 
 ### Selected work
 
